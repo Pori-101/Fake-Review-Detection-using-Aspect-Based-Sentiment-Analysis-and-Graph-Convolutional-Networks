@@ -28,6 +28,7 @@ numpy,
 scikit-learn, 
 torch, 
 transformers,
+tensorflow
 pickle,
 nltk,
 spacy
