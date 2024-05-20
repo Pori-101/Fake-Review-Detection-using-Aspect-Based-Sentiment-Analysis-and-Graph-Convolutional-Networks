@@ -22,13 +22,13 @@ Attribute names are standardized across all datasets.
 Unnecessary attributes are removed to streamline the data for analysis.
 
 ### Required Libraries and Modules
-To run the code, you'll need the following libraries and modules installed:
-pandas
-numpy
-scikit-learn
-torch
-transformers
-pickle
+To run the code, you'll need the following libraries and modules installed: \n
+pandas \n
+numpy \n
+scikit-learn \n
+torch \n
+transformers \n
+pickle \n
 
 Install required libraries using pip3 install command
 
