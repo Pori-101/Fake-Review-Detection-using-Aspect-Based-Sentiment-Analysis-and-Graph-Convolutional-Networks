@@ -1,4 +1,5 @@
-This file lists all the python libraries and modules which were installed in the VS code environment to write the code. Some of the packages listed below might not be required. Please check the readme for the most relevant libraries.
+This file lists all the python libraries and modules which were installed in the VS code environment to write the code. 
+Some of the packages listed below might not be required. Please check the readme for the most relevant libraries.
 
 Package                      Version
 ---------------------------- ------------
