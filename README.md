@@ -2,10 +2,13 @@
 This repository contains the code and datasets for the project "Fake Reviews Detection using Aspect-Based Sentiment Analysis." The project aims to detect fake reviews by leveraging aspect-based sentiment analysis and graph convolutional networks.
 
 ### Repository Structure
+
 #### Code: 
 Contains all the scripts for data processing, model training, and evaluation.
+
 #### Datasets: 
 Contains the pre-processed datasets used for training, testing, and validation.
+
 #### Supporting Files: 
 Contains configuration files and additional files required for the project.
 
